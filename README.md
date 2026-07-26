@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satvikreddy82/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/satvikreddy82/leet-code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/satvikreddy82/leet-code/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/satvikreddy82/leet-code/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satvikreddy82/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/satvikreddy82/leet-code/tree/master/0088-merge-sorted-array) |
 ## Recursion
 |  |
 | ------- |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/satvikreddy82/leet-code/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/satvikreddy82/leet-code/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
