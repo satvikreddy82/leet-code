@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satvikreddy82/leet-code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/satvikreddy82/leet-code/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/satvikreddy82/leet-code/tree/master/0704-binary-search) |
+| [1572-matrix-diagonal-sum](https://github.com/satvikreddy82/leet-code/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satvikreddy82/leet-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2549-count-distinct-numbers-on-board](https://github.com/satvikreddy82/leet-code/tree/master/2549-count-distinct-numbers-on-board) |
 ## Hash Table
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2549-count-distinct-numbers-on-board](https://github.com/satvikreddy82/leet-code/tree/master/2549-count-distinct-numbers-on-board) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/satvikreddy82/leet-code/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
