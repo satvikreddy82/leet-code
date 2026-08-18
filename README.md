@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/satvikreddy82/leet-code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/satvikreddy82/leet-code/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/satvikreddy82/leet-code/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/satvikreddy82/leet-code/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/satvikreddy82/leet-code/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/satvikreddy82/leet-code/tree/master/0509-fibonacci-number) |
 | [2549-count-distinct-numbers-on-board](https://github.com/satvikreddy82/leet-code/tree/master/2549-count-distinct-numbers-on-board) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/satvikreddy82/leet-code/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/satvikreddy82/leet-code/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/satvikreddy82/leet-code/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -87,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/satvikreddy82/leet-code/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/satvikreddy82/leet-code/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
