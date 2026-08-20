@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/satvikreddy82/leet-code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/satvikreddy82/leet-code/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/satvikreddy82/leet-code/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/satvikreddy82/leet-code/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/satvikreddy82/leet-code/tree/master/0509-fibonacci-number) |
 | [2549-count-distinct-numbers-on-board](https://github.com/satvikreddy82/leet-code/tree/master/2549-count-distinct-numbers-on-board) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/satvikreddy82/leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/satvikreddy82/leet-code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/satvikreddy82/leet-code/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/satvikreddy82/leet-code/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/satvikreddy82/leet-code/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
