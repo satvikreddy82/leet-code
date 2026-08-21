@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satvikreddy82/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/satvikreddy82/leet-code/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/satvikreddy82/leet-code/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/satvikreddy82/leet-code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satvikreddy82/leet-code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/satvikreddy82/leet-code/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/satvikreddy82/leet-code/tree/master/0704-binary-search) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/satvikreddy82/leet-code/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/satvikreddy82/leet-code/tree/master/0268-missing-number) |
 | [2549-count-distinct-numbers-on-board](https://github.com/satvikreddy82/leet-code/tree/master/2549-count-distinct-numbers-on-board) |
 ## Math
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/satvikreddy82/leet-code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/satvikreddy82/leet-code/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/satvikreddy82/leet-code/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/satvikreddy82/leet-code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/satvikreddy82/leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/satvikreddy82/leet-code/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/satvikreddy82/leet-code/tree/master/0412-fizz-buzz) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/satvikreddy82/leet-code/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/satvikreddy82/leet-code/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/satvikreddy82/leet-code/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/satvikreddy82/leet-code/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/satvikreddy82/leet-code/tree/master/0704-binary-search) |
 ## Simulation
 |  |
@@ -100,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/satvikreddy82/leet-code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/satvikreddy82/leet-code/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/satvikreddy82/leet-code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/satvikreddy82/leet-code/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
