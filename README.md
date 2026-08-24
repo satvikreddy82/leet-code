@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satvikreddy82/leet-code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/satvikreddy82/leet-code/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/satvikreddy82/leet-code/tree/master/0704-binary-search) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/satvikreddy82/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1572-matrix-diagonal-sum](https://github.com/satvikreddy82/leet-code/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satvikreddy82/leet-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2549-count-distinct-numbers-on-board](https://github.com/satvikreddy82/leet-code/tree/master/2549-count-distinct-numbers-on-board) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/satvikreddy82/leet-code/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/satvikreddy82/leet-code/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/satvikreddy82/leet-code/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/satvikreddy82/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2549-count-distinct-numbers-on-board](https://github.com/satvikreddy82/leet-code/tree/master/2549-count-distinct-numbers-on-board) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/satvikreddy82/leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
