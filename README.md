@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/satvikreddy82/leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/satvikreddy82/leet-code/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satvikreddy82/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/satvikreddy82/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1572-matrix-diagonal-sum](https://github.com/satvikreddy82/leet-code/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satvikreddy82/leet-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2549-count-distinct-numbers-on-board](https://github.com/satvikreddy82/leet-code/tree/master/2549-count-distinct-numbers-on-board) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/satvikreddy82/leet-code/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/satvikreddy82/leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satvikreddy82/leet-code/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/satvikreddy82/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2549-count-distinct-numbers-on-board](https://github.com/satvikreddy82/leet-code/tree/master/2549-count-distinct-numbers-on-board) |
 ## Math
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satvikreddy82/leet-code/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/satvikreddy82/leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/satvikreddy82/leet-code/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/satvikreddy82/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Recursion
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/satvikreddy82/leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satvikreddy82/leet-code/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/satvikreddy82/leet-code/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/satvikreddy82/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/satvikreddy82/leet-code/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/satvikreddy82/leet-code/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/satvikreddy82/leet-code/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/satvikreddy82/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Simulation
 |  |
 | ------- |
