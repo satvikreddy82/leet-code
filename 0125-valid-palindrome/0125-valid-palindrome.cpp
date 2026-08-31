@@ -1,13 +1,15 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string temp="";
-        for(char c:s){
-            if(isalnum(c)) temp+=tolower(c);
-        } 
-        string reve=temp;
-        reverse(reve.begin(),reve.end());
-        if(reve==temp) return true;
-        return false;   
+        int left=0;
+        int right=s.size()-1;
+        while(left<right){
+            while(left<right && !isalnum(s[left])) left++;
+             while(left<right && !isalnum(s[right])) right--;
+            if(tolower(s[left])!=tolower(s[right])) return false;
+            left++;
+            right--;
+        }
+        return true;
     }
 };
