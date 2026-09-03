@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/satvikreddy82/leet-code/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satvikreddy82/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2549-count-distinct-numbers-on-board](https://github.com/satvikreddy82/leet-code/tree/master/2549-count-distinct-numbers-on-board) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/satvikreddy82/leet-code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/satvikreddy82/leet-code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satvikreddy82/leet-code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/satvikreddy82/leet-code/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satvikreddy82/leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/satvikreddy82/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/satvikreddy82/leet-code/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
