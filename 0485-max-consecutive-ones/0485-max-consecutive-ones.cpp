@@ -6,7 +6,7 @@ public:
         for(int num:nums){
             if(num==1){
                 freq++;
-                maxi=max(maxi,freq);
+                
             }
             if(num==0) {
             freq=0;
