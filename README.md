@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/satvikreddy82/leet-code/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satvikreddy82/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/satvikreddy82/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1470-shuffle-the-array](https://github.com/satvikreddy82/leet-code/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/satvikreddy82/leet-code/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satvikreddy82/leet-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/satvikreddy82/leet-code/tree/master/1929-concatenation-of-array) |
