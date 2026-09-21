@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/satvikreddy82/leet-code/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/satvikreddy82/leet-code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/satvikreddy82/leet-code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/satvikreddy82/leet-code/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/satvikreddy82/leet-code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/satvikreddy82/leet-code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/satvikreddy82/leet-code/tree/master/0258-add-digits) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/satvikreddy82/leet-code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/satvikreddy82/leet-code/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/satvikreddy82/leet-code/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/satvikreddy82/leet-code/tree/master/0412-fizz-buzz) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/satvikreddy82/leet-code/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/satvikreddy82/leet-code/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/satvikreddy82/leet-code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/satvikreddy82/leet-code/tree/master/0412-fizz-buzz) |
 | [1441-build-an-array-with-stack-operations](https://github.com/satvikreddy82/leet-code/tree/master/1441-build-an-array-with-stack-operations) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/satvikreddy82/leet-code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/satvikreddy82/leet-code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/satvikreddy82/leet-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satvikreddy82/leet-code/tree/master/0268-missing-number) |
