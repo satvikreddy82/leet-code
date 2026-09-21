@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/satvikreddy82/leet-code/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/satvikreddy82/leet-code/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/satvikreddy82/leet-code/tree/master/0412-fizz-buzz) |
+| [3498-reverse-degree-of-a-string](https://github.com/satvikreddy82/leet-code/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/satvikreddy82/leet-code/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/satvikreddy82/leet-code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2549-count-distinct-numbers-on-board](https://github.com/satvikreddy82/leet-code/tree/master/2549-count-distinct-numbers-on-board) |
+| [3498-reverse-degree-of-a-string](https://github.com/satvikreddy82/leet-code/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
