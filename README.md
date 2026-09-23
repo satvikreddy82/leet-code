@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/satvikreddy82/leet-code/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/satvikreddy82/leet-code/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/satvikreddy82/leet-code/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/satvikreddy82/leet-code/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satvikreddy82/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2549-count-distinct-numbers-on-board](https://github.com/satvikreddy82/leet-code/tree/master/2549-count-distinct-numbers-on-board) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/satvikreddy82/leet-code/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/satvikreddy82/leet-code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/satvikreddy82/leet-code/tree/master/0229-majority-element-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/satvikreddy82/leet-code/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
