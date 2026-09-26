@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/satvikreddy82/leet-code/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/satvikreddy82/leet-code/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/satvikreddy82/leet-code/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/satvikreddy82/leet-code/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/satvikreddy82/leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/satvikreddy82/leet-code/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satvikreddy82/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/satvikreddy82/leet-code/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/satvikreddy82/leet-code/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/satvikreddy82/leet-code/tree/master/1480-running-sum-of-1d-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
