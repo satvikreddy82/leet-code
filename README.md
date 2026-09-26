@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/satvikreddy82/leet-code/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/satvikreddy82/leet-code/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satvikreddy82/leet-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1920-build-array-from-permutation](https://github.com/satvikreddy82/leet-code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/satvikreddy82/leet-code/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/satvikreddy82/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/satvikreddy82/leet-code/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/satvikreddy82/leet-code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/satvikreddy82/leet-code/tree/master/0412-fizz-buzz) |
 | [1441-build-an-array-with-stack-operations](https://github.com/satvikreddy82/leet-code/tree/master/1441-build-an-array-with-stack-operations) |
+| [1920-build-array-from-permutation](https://github.com/satvikreddy82/leet-code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/satvikreddy82/leet-code/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/satvikreddy82/leet-code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2549-count-distinct-numbers-on-board](https://github.com/satvikreddy82/leet-code/tree/master/2549-count-distinct-numbers-on-board) |
