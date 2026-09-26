@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/satvikreddy82/leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/satvikreddy82/leet-code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/satvikreddy82/leet-code/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/satvikreddy82/leet-code/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satvikreddy82/leet-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/satvikreddy82/leet-code/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/satvikreddy82/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/satvikreddy82/leet-code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/satvikreddy82/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/satvikreddy82/leet-code/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/satvikreddy82/leet-code/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
 | ------- |
