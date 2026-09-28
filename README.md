@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/satvikreddy82/leet-code/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/satvikreddy82/leet-code/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/satvikreddy82/leet-code/tree/master/0412-fizz-buzz) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satvikreddy82/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/satvikreddy82/leet-code/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/satvikreddy82/leet-code/tree/master/1441-build-an-array-with-stack-operations) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satvikreddy82/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/satvikreddy82/leet-code/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satvikreddy82/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
