@@ -5,7 +5,7 @@ public:
         int maxi=0;
         int left=0;
         for(int right=0;right<s.length();right++){
-            while(ans.find(s[right])!=NULL){
+            while(ans.find(s[right])!=ans.end()){
                 ans.erase(s[left]);
                 left++;
             }
