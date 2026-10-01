@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satvikreddy82/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/satvikreddy82/leet-code/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/satvikreddy82/leet-code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/satvikreddy82/leet-code/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/satvikreddy82/leet-code/tree/master/0392-is-subsequence) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/satvikreddy82/leet-code/tree/master/0020-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/satvikreddy82/leet-code/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satvikreddy82/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/satvikreddy82/leet-code/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satvikreddy82/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
