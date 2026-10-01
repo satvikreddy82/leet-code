@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/satvikreddy82/leet-code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satvikreddy82/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/satvikreddy82/leet-code/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/satvikreddy82/leet-code/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/satvikreddy82/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satvikreddy82/leet-code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/satvikreddy82/leet-code/tree/master/0229-majority-element-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/satvikreddy82/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/satvikreddy82/leet-code/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/satvikreddy82/leet-code/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/satvikreddy82/leet-code/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/satvikreddy82/leet-code/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/satvikreddy82/leet-code/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/satvikreddy82/leet-code/tree/master/0412-fizz-buzz) |
@@ -266,4 +268,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satvikreddy82/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/satvikreddy82/leet-code/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
