@@ -4,16 +4,14 @@ public:
 
         int left = 0;
         int right = height.size() - 1;
-        int maxi = 0;
+        int ans = 0;
 
         while(left < right) {
 
             int h = min(height[left], height[right]);
             int width = right - left;
-
             int area = h * width;
-
-            maxi = max(maxi, area);
+            ans = max(ans, area);
 
             if(height[left] < height[right]) {
                 left++;
@@ -23,6 +21,6 @@ public:
             }
         }
 
-        return maxi;
+        return ans;
     }
 };
