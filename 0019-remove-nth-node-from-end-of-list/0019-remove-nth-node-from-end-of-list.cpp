@@ -14,18 +14,18 @@ public:
         ListNode* temp=head;
         int count=0;
         while(temp!=NULL){
-            count++;
+            count++;//count number of nodes in total 
             temp=temp->next;
         }
         if(n==count) return head->next;
-        int pos=count-n;
+        int pos=count-n;//then find index we want to delete
         temp=head;
         int c=0;
         while(c<pos-1){
-            c++;
+            c++;//last at before index we want to delete
             temp=temp->next;
         }
-        temp->next=temp->next->next;
+        temp->next=temp->next->next;//delete node
         return head;
     }
 };
