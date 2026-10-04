@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/satvikreddy82/leet-code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satvikreddy82/leet-code/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/satvikreddy82/leet-code/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/satvikreddy82/leet-code/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/satvikreddy82/leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/satvikreddy82/leet-code/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/satvikreddy82/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satvikreddy82/leet-code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/satvikreddy82/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/satvikreddy82/leet-code/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/satvikreddy82/leet-code/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
