@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satvikreddy82/leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/satvikreddy82/leet-code/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/satvikreddy82/leet-code/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/satvikreddy82/leet-code/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/satvikreddy82/leet-code/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/satvikreddy82/leet-code/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/satvikreddy82/leet-code/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/satvikreddy82/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satvikreddy82/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/satvikreddy82/leet-code/tree/master/3498-reverse-degree-of-a-string) |
 ## Memoization
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/satvikreddy82/leet-code/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satvikreddy82/leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/satvikreddy82/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/satvikreddy82/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Enumeration
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/satvikreddy82/leet-code/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/satvikreddy82/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/satvikreddy82/leet-code/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satvikreddy82/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/satvikreddy82/leet-code/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/satvikreddy82/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satvikreddy82/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
