@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/satvikreddy82/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/satvikreddy82/leet-code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satvikreddy82/leet-code/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/satvikreddy82/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/satvikreddy82/leet-code/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satvikreddy82/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/satvikreddy82/leet-code/tree/master/0485-max-consecutive-ones) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/satvikreddy82/leet-code/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/satvikreddy82/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/satvikreddy82/leet-code/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/satvikreddy82/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/satvikreddy82/leet-code/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/satvikreddy82/leet-code/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/satvikreddy82/leet-code/tree/master/0977-squares-of-a-sorted-array) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satvikreddy82/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/satvikreddy82/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/satvikreddy82/leet-code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/satvikreddy82/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/satvikreddy82/leet-code/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/satvikreddy82/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Simulation
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/satvikreddy82/leet-code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/satvikreddy82/leet-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satvikreddy82/leet-code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/satvikreddy82/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/satvikreddy82/leet-code/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/satvikreddy82/leet-code/tree/master/0645-set-mismatch) |
 ## Number Theory
@@ -317,4 +321,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/satvikreddy82/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/satvikreddy82/leet-code/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/satvikreddy82/leet-code/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/satvikreddy82/leet-code/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
