@@ -5,11 +5,11 @@ public:
         for(char c:s){
             st.push(c);
         }
-        vector<char> ans;
+        int i=0;
         while(!st.empty()){
-            ans.push_back(st.top());
+            s[i]=st.top();
             st.pop();
+            i++;
         }
-        s=ans;
     }
 };
